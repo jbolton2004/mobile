@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grace Tasty Bites</string>
+    <string name="your_cart">Your Cart</string>
+    <string name="cart_empty">Your cart is empty</string>
+    <string name="total_amount">Total: $0.00</string>
+    <string name="your_name">Your Name</string>
+    <string name="phone_optional">Phone Number (Optional)</string>
+    <string name="clear_cart">Clear Cart</string>
+    <string name="place_order">Place Order</string>
+    <string name="remove">Remove</string>
+    <string name="decrease_quantity">Decrease quantity</string>
+    <string name="increase_quantity">Increase quantity</string>
+    <string name="select_quantity">Select Quantity</string>
+    <string name="restaurant_name">Grace Tasty Bites</string>
+    <string name="add_menu_item">Add new menu item</string>
+    <string name="available">Available</string>
+</resources>

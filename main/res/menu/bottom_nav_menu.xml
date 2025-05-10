@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+
+    <item
+        android:id="@+id/menuFragment"
+        android:icon="@drawable/ic_menu"
+        android:title="@string/menu" />
+
+    <item
+        android:id="@+id/ordersFragment"
+        android:icon="@drawable/ic_orders"
+        android:title="@string/orders" />
+
+    <item
+        android:id="@+id/staffFragment"
+        android:icon="@drawable/ic_staff"
+        android:title="@string/staff" />
+</menu>
